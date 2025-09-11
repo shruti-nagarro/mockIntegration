@@ -1,0 +1,11 @@
+#Ant properties
+#Wed Aug 04 12:54:25 CEST 2021
+version.api=2011
+vendor=hybris
+group.id=de.hybris.platform
+name=nagaccinitialdata
+description=nagaccinitialdata
+builddate=20210804 1252
+releasedate=20201119 1630
+version=2011.10
+module.name=platform-module

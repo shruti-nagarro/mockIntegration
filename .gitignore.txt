@@ -1,0 +1,51 @@
+#############################
+# SAP Hybris 2011 Git Ignore
+#############################
+
+# Ignore everything by default
+/*
+
+# Keep Gitignore itself
+!.gitignore
+
+
+
+#############################
+# Common unwanted files
+#############################
+
+# Eclipse / IntelliJ / VS Code
+*.project
+*.classpath
+*.settings/
+.idea/
+.vscode/
+
+# Build + temp
+target/
+temp/
+work/
+log/
+logs/
+*.log
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Node/npm/yarn (if frontend used)
+node_modules/
+dist/
+build/
+
+# Hybris specific temp
+hybris/log/*
+hybris/temp/*
+hybris/data/*
+hybris/bin/platform/tomcat/work/*
+hybris/bin/platform/tomcat/temp/*
+hybris/bin/platform/tomcat/logs/*
+
+#############################
+# End
+#############################

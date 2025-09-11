@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testclasses><nagaccfacades><testclass>com.nagarro.facades.suggestion.DefaultSimpleSuggestionFacadeIntegrationTest</testclass><testclass>com.nagarro.facades.suggestion.impl.DefaultSimpleSuggestionFacadeTest</testclass></nagaccfacades></testclasses>
